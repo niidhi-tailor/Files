@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KnolML>
+	<KnowledgeData Type="QA/text" Id= "14">
+		<Title>What factors affect the carbonation level of beer?</Title>
+		<Instance Id= "1" InstanceType= "Question">
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:44:37.830</CreationDate> 
+				<LastActivityDate>2017-03-19T14:24:13.047</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>26</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="214">
+					&lt;p&gt;Beer varies widely, and one of the most noticeable differences when drinking is the carbonation level.  What factors in the composition, brewing process, storage, etc affect the final level of carbonation? &lt;/p&gt;
+
+				</Text>
+			</Body>
+			<Tags>&lt;brewing&gt;&lt;carbonation&gt;</Tags>
+			<Credit> 
+				<Score>8</Score>
+				<ViewCount>846</ViewCount>
+				<AnswerCount>2</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "2" OriginalId= "27" InstanceType= "Answer">
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:57:40.213</CreationDate> 
+				<LastActivityDate>2014-01-21T20:57:40.213</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>22</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="1022">
+					&lt;p&gt;There are two main ways to carbonate beer. &lt;/p&gt;
+
+					&lt;p&gt;Force carbonation - This is where CO2 is forced into the fermented beer. Because of the pressure (and the temperature at which it is done) the CO2 will dissolve into the beer solution. The fizz that happens when you open a beer is the CO2 coming out of solution. (Technically you can re-carbonate flat beer!)&lt;/p&gt;
+
+					&lt;p&gt;Natural carbonation - All beer has SOME yeast present. Home-brewers that bottle will actually pour a little bit of sugar into the racked beer before bottling. The yeast that is present will re-activate and eat the sugar. One of the bi-products is CO2. Because the beer is bottled and the CO2 has nowhere to go, it will dissolve into solution. This is why you will often see little yeast cakes in the bottom of home-brewer&#x27;s bottles.&lt;/p&gt;
+
+					&lt;p&gt;There are some beers that used forced-nitrogen to nitrogenate (if that is the appropriate word) their beers. &lt;/p&gt;
+
+					&lt;p&gt;TL;DR - Temperature, methods of carbonating, storing beer can all affect carbonation. &lt;/p&gt;
+
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>6</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "3" ParentId= "2" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:25:50.977</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>8</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="29">
+					Yes, the word is nitrogenate.
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>2</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "4" OriginalId= "6690" InstanceType= "Answer">
+			<TimeStamp>
+ 				<CreationDate>2017-03-19T14:24:13.047</CreationDate> 
+				<LastActivityDate>2017-03-19T14:24:13.047</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>6573</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="661">
+					&lt;p&gt;I have a similar question, but interpret the original question differently - probably because I am a home brewer that lets the beer carbonate naturally. If you are forcing CO2 into the beer, I imagine you have greater control over levels of carbonation. However, I understand that the final gravity, alcohol content, amount of sugar, and temperature have the most significant impact on carbonation in the bottle. The primary factors would be Lower FG and ABV will increase carbonation, and secondarily a little more sugar and time (&gt;3weeks) will increase carbonation. This all assumes you are storing the beer in a temp range that makes for happy yeast.&lt;/p&gt;
+
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>1</Score>
+				<CommentCount>1</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "5" ParentId= "4" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2017-03-19T15:08:05.493</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>6111</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="423">
+					The reason higher gravity beers have low carbonation is that they have more unfermented sugars. When that happens it makes for a really nice head. Lots of carbonation and unfermented sugars will give you a yuuuge head. Light beers are drier, more completely fermented allowing for more carbonation without a huge head. Think of Champagne which has a  huge amount of carbonation, yet the head does not last but a few second.
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>1</Score>
+			</Credit> 
+		</Instance>
+	</KnowledgeData>
+</KnolML>

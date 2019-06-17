@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KnolML>
+	<KnowledgeData Type="QA/text" Id= "1">
+		<Title>What is a citra hop, and how does it differ from other hops?</Title>
+		<Instance Id= "1" InstanceType= "Question">
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:26:05.383</CreationDate> 
+				<LastEditDate>2014-01-21T22:04:34.977</LastEditDate> 
+				<LastActivityDate>2014-01-21T22:04:34.977</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+				<LastEditorUserId>8</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="155">
+					&lt;p&gt;I was offered a beer the other day that was reportedly made with citra hops. What are citra hops? Why should I care that my beer is made with them?&lt;/p&gt;
+				</Text>
+			</Body>
+			<Tags>&lt;hops&gt;</Tags>
+			<Credit> 
+				<Score>19</Score>
+				<ViewCount>1906</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "2" OriginalId= "4" InstanceType= "Answer">
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:31:18.540</CreationDate> 
+				<LastEditDate>2014-01-21T21:36:38.133</LastEditDate> 
+				<LastActivityDate>2014-01-21T21:36:38.133</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>12</OwnerUserId>
+				<LastEditorUserId>25</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="408">
+					&lt;p&gt;Citra is a registered trademark since 2007. Citra Brand hops have fairly high alpha acids and total oil contents with a low percentage of cohumulone content and  imparts interesting citrus and tropical fruit characters to beer.&lt;/p&gt;
+					&lt;p&gt;For more information, you can read the &lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_hop_varieties#Citra_brand_HBC_394_cv&quot;&gt;Wikipedia article&lt;/a&gt; on the Citra brand.&lt;/p&gt;
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>14</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+		</Instance>
+	</KnowledgeData>
+</KnolML>

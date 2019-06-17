@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KnolML>
+	<KnowledgeData Type="QA/text" Id= "99">
+		<Title>How can I tell whether a beer will improve with age?</Title>
+		<Instance Id= "1" InstanceType= "Question">
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:05:29.813</CreationDate> 
+				<LastActivityDate>2016-06-27T01:35:57.440</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>66</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="523">
+					&lt;p&gt;Most mass-market beers come with expiration dates, and cease to be good for drinking if too much time has passed since they were brewed, even if they been stored in unopened containers and good conditions. Some major breweries even have long-running advertising campaigns about the freshness of their products.&lt;/p&gt;
+					&lt;p&gt;Other beers improve with age. What qualities make a beer suitable for cellaring or bottle-conditioning? How can I know whether a given bottle of beer can be aged, short of looking it up online?&lt;/p&gt;
+				</Text>
+			</Body>
+			<Tags>&lt;aging&gt;&lt;bottle-conditioning&gt;&lt;cellaring&gt;&lt;freshness&gt;</Tags>
+			<Credit> 
+				<Score>41</Score>
+				<ViewCount>9165</ViewCount>
+				<AnswerCount>8</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "2" OriginalId= "103" InstanceType= "Answer">
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:16:57.733</CreationDate> 
+				<LastEditDate>2014-01-21T23:01:58.577</LastEditDate> 
+				<LastActivityDate>2014-01-21T23:01:58.577</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>68</OwnerUserId>
+				<LastEditorUserId>68</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="934">
+					&lt;p&gt;Good question! I know that most (almost all) beers will not improve with age, and as you say will simply spoil. I don&#x27;t know of any beers that you really want to age in the same way that you would age wine. In general, I would not age any beer unless it has specifically been presented to you by the brewer as something that should be aged.&lt;/p&gt;
+					&lt;p&gt;Bottle fermentation or bottle-conditioning is adding yeast to the bottle at bottling time, so that the beer continues to ferment in the bottle. The main purpose of this is to carbonate the beer in the bottle, without injecting CO2 under pressure. I think most brewers do any conditioning before they sell their product, so you don&#x27;t have to do this yourself unless you&#x27;re homebrewing.&lt;/p&gt;
+					&lt;p&gt;It&#x27;s not clear to me why wine ages in the bottle, while whisky and beer don&#x27;t. Any good answer would probably just confuse me anyway, with lots of mumbo-jumbo about tannins and stuff. &lt;/p&gt;
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>6</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "3" ParentId= "2" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:23:48.497</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>8</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="47">
+					This doesn&#x27;t really answer the question at all.
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>1</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "4" ParentId= "2" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:38:22.943</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>68</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="475">
+					I edited my answer to try to respond to the question a bit more. But I think I am answering the question, just perhaps more pragmatically than you would like. The long and short is I don&#x27;t know what qualities make a beer suitable for cellaring, so I don&#x27;t cellar any beers unless the brewer has specifically told me to. And if they want you to, they will. And if they don&#x27;t, it&#x27;s probably because their beer will not improve with age. I think only some very special beers do.
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>0</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "5" OriginalId= "112" InstanceType= "Answer">
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:43:07.797</CreationDate> 
+				<LastActivityDate>2014-01-21T22:43:07.797</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>27</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="948">
+					&lt;p&gt;There are a couple of considerations, although this is far from a complete answer.&lt;/p&gt;
+					&lt;p&gt;First, a stronger (higher ABV) beer will tend to cellar better, as the alcohol can act to help prevent oxidization.&lt;/p&gt;
+					&lt;p&gt;Second, a beer with less emphasis on hops, and more on malt, yeast, or other characteristics, will be a better candidate, because the qualities that hops impart will fade in a fairly short time.  This is why your IPAs and such should be consumed sooner than later -- the character is primarily in the hops.&lt;/p&gt;
+					&lt;p&gt;The purpose of cellaring a beer is to see its improvement over time.  Some may stay exactly the same, which others will change.  I think the answer there lies in whether there is still active yeast or bacteria in the bottle, and whether there is anything for them to chew on.  Some styles (lambics, for example) are far more prone to this, but I don&#x27;t think there&#x27;s a hard and fast rule that one couple follow.&lt;/p&gt;
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>30</Score>
+				<CommentCount>5</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "6" OriginalId= "114" InstanceType= "Answer">
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:44:36.553</CreationDate> 
+				<LastEditDate>2014-02-01T20:10:48.037</LastEditDate> 
+				<LastActivityDate>2014-02-01T20:10:48.037</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>31</OwnerUserId>
+				<LastEditorUserId>31</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="522">
+					&lt;p&gt;Typically it depends on the style. High ABV beers, such as imperial stouts and barley wines will typically age well while others lower in ABV will go rancid after 3-6 months. Obviously you&#x27;re not going to want to cellar a Bud Light (it tastes rancid anyway before storing it). But even when speaking of higher quality beers, you&#x27;re not going to want to cellar witbeers, pale ales, and things of that nature which are rather light beers. It is usually best to ask the brewer if the beer is recommended for storing. &lt;/p&gt;
+
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "7" ParentId= "2" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:50:15.173</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>5</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="233">
+					To my knowledge, most modern wines don&#x27;t age.  Champaign may because it is bottle fermented.  When looking at an old bottle of wine, the more important fact is what year it was bottled and how the other bottles from those grapes did.
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>0</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "8" ParentId= "5" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:56:46.863</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>68</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="207">
+					Good answer. What I&#x27;m not clear about is with lambics or other beers where yeast is added at bottling, is that bottle fermentation simply for carbonation or does it actually change the flavour significantly?
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>1</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "9" ParentId= "2" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:58:59.610</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>68</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="158">
+					Wikipedia says [some kinds](http://en.wikipedia.org/wiki/Aging_of_wine#Good_aging_potential) of wine can age well, but I&#x27;ve never tried so you might be right.
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>0</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "10" ParentId= "5" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T22:59:28.613</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>27</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="50">
+					It is not just for carbonation, flavors do change.
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>1</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "11" ParentId= "2" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T23:08:18.627</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>27</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="472">
+					Brian, I fear we are going off on a tangent, but its somewhat tricky to say that wines &quot;don&#x27;t age&quot;.  It&#x27;s true that today, as 100 years ago, most wines are drank more or less as soon as they are released.  However, as 100 years ago, there are still plenty of modern wines that can, or _should_, be left to sit for 2 years, 5 years, 10 years, or longer.  It is the uncommon wine that will age a &quot;long&quot; time, but it has nothing to do with whether a wine is bottle fermented.
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>1</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "12" OriginalId= "163" InstanceType= "Answer">
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T06:05:41.460</CreationDate> 
+				<LastActivityDate>2014-01-22T06:05:41.460</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>117</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="1080">
+					&lt;p&gt;In terms of commercial beers, it is hard to say.  In general I find that aging tends to allow flavors to meld.  If I brew beer and do a brief aging in oak (or add oak chips), the beer usually &lt;em&gt;requires&lt;/em&gt; aging to achieve balance.  This is most typical with something I sometimes make called ebulon (non-carbonated, fermented malt and elderberries, secondary fermentation in oak for a month, then bottled and aged for several more months).&lt;/p&gt;
+					&lt;p&gt;Extrapolating from my experience here, I would expect a few general rules to apply:&lt;/p&gt;
+					&lt;ol&gt;
+					&lt;li&gt;&lt;p&gt;Beers with disparate sharp contrasts (particularly where fruit are involved) may benefit from aging.  I could imagine things like full-bodied apricot ales aging well.&lt;/p&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;p&gt;Higher ABV and richer beers are likely to age better than lower ABV and lighter beers.&lt;/p&gt;&lt;/li&gt;
+					&lt;/ol&gt;
+					&lt;p&gt;This is assuming you hope to see a general &quot;smoothing over&quot; of contrasts in an aged beer.  Some things will usually fade and some others may increase (for non-pasteurized or unfiltered beers, yeast flavors will usually increase).&lt;/p&gt;
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>5</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "13" OriginalId= "534" InstanceType= "Answer">
+			<TimeStamp>
+ 				<CreationDate>2014-02-04T23:31:25.287</CreationDate> 
+				<LastActivityDate>2014-02-04T23:31:25.287</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>81</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="1312">
+					&lt;p&gt;There are a few types of beers which are (generally) good to age.&lt;/p&gt;
+					&lt;ol&gt;
+					&lt;li&gt;&lt;em&gt;Strong Beers:&lt;/em&gt; like such as barleywines, robust porters, and imperial stouts. It is benefical if a beer is 8-10 percent or stronger, since an elevated alcohol profile will typically become smoother, mellower and more agreeable. That does not mean lower alcohol percentage beers can not be aged, but higer percentage beers are more suitable most of the time. &lt;/li&gt;
+					&lt;li&gt;&lt;em&gt;Dark Malt:&lt;/em&gt; like Palo Santo and World Wide Stout. Darker, maltier beer is better because the sweet, residual sugars tend to soften over time. Even lower-alcohol beers with a malt-heavy profile will age better. &lt;/li&gt;
+					&lt;li&gt;&lt;em&gt;Wild Beers:&lt;/em&gt; living organisms change the beer as it ages in the bottle. Orval Trappist Ale is a classic example. The Belgian pale ale receives a dose of Brettanomyces yeast as it goes in the bottle. The yeast can live in the bottle for years, slowly consuming sugars and protecting the beer’s existing flavors by consuming oxygen. Over time it goes from being bright and hoppy to bready, earthy and spicy. But sometimes they are unstable, because the yeast rapidly works through a beer and alters its character.&lt;/li&gt;
+					&lt;/ol&gt;
+					&lt;p&gt;&lt;em&gt;What not to age:&lt;/em&gt; IPA do not improve with age. Hoppy beers are not for aging.&lt;/p&gt;
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>13</Score>
+				<CommentCount>3</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "14" ParentId= "2" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2015-04-08T01:31:00.247</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>0</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="385">
+					just beginning to learn about beer...have found much information on this site thank you ... I have been a wine collector for many years. Please do know with confidence that there are many &quot;modern&quot; day wines that age. I have a vast selection of 2000 and 2005 bordeaux that have not even reached the beginning of their maturity window yet and will age well for 30 to 50 years or more....
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>1</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "15" OriginalId= "3327" InstanceType= "Answer">
+			<TimeStamp>
+ 				<CreationDate>2015-04-08T14:07:54.007</CreationDate> 
+				<LastActivityDate>2015-04-08T14:07:54.007</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>529</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="716">
+					&lt;p&gt;I would suggest reading &quot;Vintage Beer: A Taster&#x27;s Guide to Brews That Improve over Time&quot; by Patrick Dawson. To summarize his findings on what types of beers improve with age they must contain at least one of these three characteristics:&lt;/p&gt;
+
+					&lt;ol&gt;
+					&lt;li&gt;High ABV (8% or more)&lt;/li&gt;
+					&lt;li&gt;Sour&lt;/li&gt;
+					&lt;li&gt;Smoke&lt;/li&gt;
+					&lt;/ol&gt;
+
+					&lt;p&gt;It goes without saying that if a beer has two or more of these characteristics the odds of it improving with cellaring go up. But even if it has all three characteristics it may not improve with age, or only aging to a certain point.&lt;/p&gt;
+
+					&lt;p&gt;Plus you must remember that proper aging is also required. Proper storage, temperature control, how the bottle is positioned while being stored, etc.&lt;/p&gt;
+
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>2</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "16" ParentId= "5" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2015-04-08T14:09:56.027</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>529</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="174">
+					But there are some hoppy beers, especially DIPA that are designed to be aged. I&#x27;ve had some that were over year old that tasted really good. Even Stone has an Enjoy After IPA
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>0</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "17" ParentId= "5" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2015-04-09T15:47:57.153</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>27</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="598">
+					Surely there are IPAs that are designed to be aged.  We live in a great time for beer; brewers are trying all kinds of recipes.  Given that they call Enjoy After an IPA, I will trust that they started with an IPA recipe, but I doubt that you will get a strong hop characteristic after the recommended open date.  I would think that the souring characteristics would take over.  Not to say that it doesn&#x27;t matter that it started as an IPA, but that the flavor profile that defines an IPA will likely take second chair.  Ultimately, when it comes to aging, there isn&#x27;t a science, but a rule of thumb.
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>0</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "18" OriginalId= "3330" InstanceType= "Answer">
+			<TimeStamp>
+ 				<CreationDate>2015-04-11T08:34:46.707</CreationDate> 
+				<LastActivityDate>2015-04-11T08:34:46.707</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>3885</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="1342">
+					&lt;p&gt;Personally I was quite taken with 60, 90, and 120 minute IPAs (thank you DFH) when shelved in cool and dark places for as much as a year. My guess is it would have been good for longer, but tasty beer and curiosity got the best of my experiment. I think Wayne in Yak deserves an up vote I can&#x27;t yet do thanks to my noob status. Well researched and void of conjectural inaccuracy. If hops were the only flavor in IPA then yes it could be decreasingly &quot;hoppy&quot; but that&#x27;s assuming we&#x27;re referring to the aroma hops. Your bittering hops would surely deepen with time. But with any beer there are more layers than one. High ABV beers will just broaden the chord change more as every flavor will carry different in the changing alcohol/water/sugar levels that time provides. Fruit in the beer no matter its place on the sweet/sour spectrum (notably normally high point as well) have similar success on the &quot;cool dark&quot; shelf. This is due to natural fermentation of organic matter  stored over time. Ever noticed how fresh salsa gets effervescent in your fridge? Granted there are no chunks of fruit (or tomatoes luckily) in your beer so the effects are severely lessened. They weigh in on the scale equal to the alcohol changes mentioned above. A personal favorite of mine is a Scotch Ale stored for as long as you can wait. Hope this helps.&lt;/p&gt;
+
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>4</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "19" OriginalId= "5174" InstanceType= "Answer">
+			<TimeStamp>
+ 				<CreationDate>2016-06-27T01:35:57.440</CreationDate> 
+				<LastActivityDate>2016-06-27T01:35:57.440</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>5599</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="783">
+					&lt;p&gt;Home brew here: I do German Hefeweitzen, or wheats. No preservatives. Did a dark one, went overboard on the dark malt, used 4 times as much as I should. Got something that tasted like a Guiness out of it. Not bad, but not what I was looking for in a dark German wheat. Put the bottles away in a dedicated fridge, a year ago.&lt;/p&gt;
+
+					&lt;p&gt;Oh my god, the sugars built up! Just tried it for the first time tonight, to see if it was spoiled. I am now going to brew this one as my &quot;one year old&quot;, as a special recipe. &lt;/p&gt;
+
+					&lt;p&gt;Yes, you can age a good, quality beer, at least under refrigeration. I am just learning about this. I am just consuming my one-year-old bottle of medium Hefe that I brewed last summer (my favorite recipe), and it is knocking a punch in terms of good flavors.&lt;/p&gt;
+
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>0</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "20" ParentId= "13" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2016-06-28T13:27:55.663</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>529</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="130">
+					Stone and several other breweries would disagree with you as they make IPA&#x27;s designed to be aged (see Stone&#x27;s Enjoy After series).
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>0</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "21" ParentId= "13" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2016-06-28T13:38:14.277</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>81</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="203">
+					@WayneInYak IPAs tend to be hoppy, and hoppy beers are not good for aging as I know and state above. I do not know how they brew IPA. Are their IPAs not hoppy or they brew hoppy beers that could be aged?
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>0</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "22" ParentId= "5" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2016-06-28T14:18:12.490</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>5457</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="386">
+					@hunse I don&#x27;t believe there is yeast added at bottling.  Lambics are inoculated by wild yeast in the environment.  Yeast is never added by humans.  What&#x27;s happens is that the live yeast in the bottle continue to consume any sugars in the beer.  These sugars are sometimes added but can be residual.  The reproduction of the yeast if what leaves the residue in the bottom of the bottle.
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>0</Score>
+			</Credit> 
+		</Instance>
+		<Instance Id= "23" ParentId= "13" InstanceType="Comments" >
+			<TimeStamp>
+ 				<CreationDate>2016-06-29T13:39:53.933</CreationDate> 
+			</TimeStamp>
+ 			<Contributors>
+ 				<OwnerUserId>529</OwnerUserId> 
+			</Contributors>
+ 			<Body>
+				<Text Type= "text" Bytes="276">
+					Sometimes they add brett to them, but try a Sierra Nevada Celebration Ale (their fresh hop IPA) that has been properly aged. It doesn&#x27;t taste the same as fresh but the characteristics it takes as it ages are rather good. I&#x27;ve had one that was aged over 2 years and it was nice
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>1</Score>
+			</Credit> 
+		</Instance>
+	</KnowledgeData>
+</KnolML>

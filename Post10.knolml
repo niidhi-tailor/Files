@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<KnolML>
+	<KnowledgeData Type="QA/text" Id= "10">
+		<Title>How do you mull beer?</Title>
+		<Instance Id= "1" InstanceType= "Question">
+			<TimeStamp>
+ 				<CreationDate>2014-01-21T20:39:03.323</CreationDate> 
+				<LastActivityDate>2014-01-22T17:04:49.340</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>7</OwnerUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="169">
+					&lt;p&gt;It's pretty cold at the moment. Mulled wine being more of a Christmas drink, mulled beer is getting popular. What beers, and what spices should I use to make it?/p&gt;
+				</Text>
+			</Body>
+			<Tags>&lt;mulling&gt;</Tags>
+			<Credit> 
+				<Score>6</Score>
+				<ViewCount>235</ViewCount>
+				<AnswerCount>1</AnswerCount>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+		</Instance>
+		<Instance Id= "2" OriginalId= "209" InstanceType= "Answer">
+			<TimeStamp>
+ 				<CreationDate>2014-01-22T17:04:49.340</CreationDate> 
+				<LastEditDate>2017-04-12T07:33:59.100</LastEditDate> 
+				<LastActivityDate>2014-01-22T17:04:49.340</LastActivityDate> 
+			</TimeStamp>
+ 			<Contributors>
+				<OwnerUserId>73</OwnerUserId>
+				<LastEditorUserId>-1</LastEditorUserId>
+			</Contributors>
+			<Body>
+				<Text Type= "text" Bytes="2876">
+					&lt;p&gt;&lt;sup&gt;This answer was originally an answer to &lt;a href=&quot;https://alcohol.stackexchange.com/questions/171/optimal-mulling-temperature&quot;&gt;Optimal mulling temperature?&lt;/a&gt;, but adapting it to this question seemed better, as the former asked a more specific question I couldn&#x27;t address.&lt;/sup&gt;&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Most well known of all the mulled beers was Wassail. Recipes for this holiday favorite vary, but all were based upon the same basic formula. Sugar was placed in the bottom of a bowl, one pint of warm beer was then poured in along with nutmeg, ginger and cinnamon.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;sup&gt;&lt;a href=&quot;http://www.realbeer.com/library/authors/smith-g/mulledbeer.php&quot; rel=&quot;nofollow noreferrer&quot;&gt;Smith, G. &quot;Mulled beer.&quot; [URL]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+					&lt;p&gt;One mulls beer by simmering beer in a pan, nearly always with the following ingredients:&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;ginger&lt;/li&gt;
+					&lt;li&gt;nutmeg&lt;/li&gt;
+					&lt;li&gt;cinnamon&lt;/li&gt;
+					&lt;li&gt;cloves&lt;/li&gt;
+					&lt;li&gt;honey, agave nectar, or sugar&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;but also sometimes adding&lt;/p&gt;
+
+					&lt;ul&gt;
+					&lt;li&gt;egg yolk&lt;/li&gt;
+					&lt;li&gt;cardamon&lt;/li&gt;
+					&lt;li&gt;star anise&lt;/li&gt;
+					&lt;li&gt;coriander&lt;/li&gt;
+					&lt;li&gt;black pepper&lt;/li&gt;
+					&lt;li&gt;allspice berries&lt;/li&gt;
+					&lt;/ul&gt;
+
+					&lt;p&gt;and occasionally garnishing the drink with orange rinds. The mixture should be brought to a simmer but &lt;em&gt;not&lt;/em&gt; a boil, and heated for 5 to 10 minutes depending on the recipe.&lt;/p&gt;
+
+					&lt;p&gt;Some even refer to &lt;em&gt;warmed&lt;/em&gt; beer as &quot;mulled&quot; beer, &lt;em&gt;i.e.&lt;/em&gt; beer heated it &lt;em&gt;in its bottle&lt;/em&gt; in a pot (or slowcooker) filled with water. For this case, there is not a consensus on the heating temperature, as it appears to vary according to the beer:&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Mulled beer needs to be heated slowly. A slow-cooker half-filled with water works well. Just open the bottle and stand it in the uncovered appliance. I also have used a large pot on the stove, with the burner on low. Don&#x27;t let the water to get anywhere close to boiling -- 130 to 140 degrees is ideal. It&#x27;s also important to keep the water level constant, so replace the water as it evaporates.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;sup&gt;&lt;a href=&quot;http://www.mercurynews.com/ci_19342928&quot; rel=&quot;nofollow noreferrer&quot;&gt;Brooks, J. R. &quot;Brooks on Beer: Hot, Mulled Beer?&quot; 2011. [URL]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;Before serving, you warm the opened bottle [of Brasserie des Franches-Montagnes&#x27; La Dragonne] in a pot of hot water to raise the ale&#x27;s temperature to about 110 degrees.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;sup&gt;&lt;a href=&quot;http://www.joesixpack.net/columnArchives/2010/021910.htm&quot; rel=&quot;nofollow noreferrer&quot;&gt;Russell, D. &quot;Cold day, cold beer? Give warm beer a try.&quot; 2010. [URL]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+					&lt;blockquote&gt;
+					  &lt;p&gt;[Unibroue &quot;Quelque Chose&quot;] should be served like a mulled wine at 122 to 158 degrees Fahrenheit.&lt;/p&gt;
+					&lt;/blockquote&gt;
+
+					&lt;p&gt;&lt;sup&gt;&lt;a href=&quot;http://www.gayot.com/beer/top10winter-beers/unibroue-quelque-chose.html&quot; rel=&quot;nofollow noreferrer&quot;&gt;&quot;Unibroue Quelque Chose Beer.&quot; [URL]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+				</Text>
+			</Body>
+			<Credit> 
+				<Score>3</Score>
+				<CommentCount>0</CommentCount>
+			</Credit> 
+		</Instance>
+	</KnowledgeData>
+</KnolML>

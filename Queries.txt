@@ -1,0 +1,52 @@
+Queries: 
+1)To display all the tables in the database:
+	SELECT table_name FROM information_schema.tables WHERE table_schema ='database_name';
+
+2)To view the schema of the a table:
+	desc table_name;
+	
+3)To get size of every table in the database:
+	SELECT table_schema as `Database`, 
+	table_name AS `Table`, 
+	round(((data_length + index_length) / 1024 / 1024), 2) `Size in MB` 
+	FROM information_schema.TABLES 
+	where table_schema='table_name';
+	
+4)To get size of databases in server:
+	SELECT table_schema AS "Database", SUM(data_length + index_length) / 1024 / 1024 AS "Size (MB)" FROM information_schema.TABLES GROUP BY table_schema;
+	
+5)To fetch all data from a table :
+	select *from table_name;
+	
+6)To limit the number of outputs(the query below will give fist only 10 rows and all coulmns):
+	select *from table_name limit 10;              
+	
+7)To feth only particular coulmns:
+	select col1,col2,col3....coln from table_name;
+	
+8)To fetch specific rows based on a coulmn value(where clause used)
+	select *from table_name where col1='value';
+	select col1,col2,col3...coln from table_name where col1='value' and col2='value2';
+	
+9)To fetch data from the table matching a column value/pattern(the query below will fetch all values for which col1 value contains 'A'):
+	select *from table_name where col1 like 'A';
+	
+10)Add a column:
+	alter table table_name add column column_name <column definition>;
+	Example:ALTER TABLE vendors ADD COLUMN vendor_group INT NOT NULL;
+	
+11)To remove a column:
+	alter table table_name drop column_name;
+	
+12)To update a particular value:
+	update table_name set col1=value1,col2=value2,...,coln=value_n where colx='value_x';
+	
+13)delete a value in the column:
+	delete from table_name where col1='value1';
+	
+14)Join Operation:
+	select *from table_1 as a join table_2 as b on a.col=b.col where <condition>;
+
+15)To remove a table:
+	drop table table_name;
+	

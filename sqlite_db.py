@@ -1,7 +1,7 @@
 import sqlite3
 import ast
 
-conn = sqlite3.connect('Wikipedia_db.db')
+conn = sqlite3.connect('Wikipedia_db.db')																			#connecting to database  
 print("Connection made")
 #conn.execute("drop table article_desc;")                                                                           #dropped the existing table with same name
 #conn.execute("create table article_desc(article_nm text,vital_article text,level text,class text,topic text);");   #cretaed table article_desc

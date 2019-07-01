@@ -1,0 +1,8 @@
+The query below gives article name for class='C' and project='category':
+select a.article_nm from article_desc as a join wiki_project as b on a.article_nm=b.article_nm where a.class='C' and b.project='category'; 
+
+The query below gives three values article name, class and project:
+select a.article_nm,a.class,b.project from article_desc as a join wiki_project as b on a.article_nm=b.article_nm where a.class='C' and b.project='category';
+
+I also performed a query succesfully:
+select a.article_nm,a.class,b.project from article_desc as a join wiki_project as b on a.article_nm=b.article_nm where a.class='C' and b.project='history'; 

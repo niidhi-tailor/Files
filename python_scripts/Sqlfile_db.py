@@ -8,9 +8,10 @@ mydb = mysql.connector.connect(
   passwd="nid270998",
   database="wikipedia"
 )
+
 print('connected to database')
 
-mycursor = mydb.cursor()
+mycursor = mydb.cursor(buffered=True)
 
 #function to display data
 def displaydata(query):
@@ -21,20 +22,16 @@ def displaydata(query):
 
 #function to create table for change_tag file
 def create_table():
-    query="DROP TABLE IF EXISTS `change_tag`;"
-    query2="CREATE TABLE `change_tag` (" \
-           "`ct_id` int(10) unsigned NOT NULL AUTO_INCREMENT," \
-           "`ct_rc_id` int(11) DEFAULT NULL," \
-           "`ct_log_id` int(10) unsigned DEFAULT NULL," \
-           "`ct_rev_id` int(10) unsigned DEFAULT NULL," \
-           "`ct_params` blob," \
-           "`ct_tag_id` int(10) unsigned NOT NULL," \
-           "PRIMARY KEY (`ct_id`)," \
-           "UNIQUE KEY `change_tag_rc_tag_id` (`ct_rc_id`,`ct_tag_id`)," \
-           "UNIQUE KEY `change_tag_log_tag_id` (`ct_log_id`,`ct_tag_id`)," \
-           "UNIQUE KEY `change_tag_rev_tag_id` (`ct_rev_id`,`ct_tag_id`)," \
-           "KEY `change_tag_tag_id_id` (`ct_tag_id`,`ct_rc_id`,`ct_rev_id`,`ct_log_id`)" \
-           ") ENGINE=InnoDB AUTO_INCREMENT=75653274 DEFAULT CHARSET=binary;"
+    query="DROP TABLE IF EXISTS `redirect`;"
+    query2="CREATE TABLE `redirect` ("\
+  "`rd_from` int(8) unsigned NOT NULL DEFAULT '0',"\
+  "`rd_namespace` int(11) NOT NULL DEFAULT '0',"\
+  "`rd_title` varbinary(255) NOT NULL DEFAULT '',"\
+  "`rd_interwiki` varbinary(32) DEFAULT NULL,"\
+  "`rd_fragment` varbinary(255) DEFAULT NULL,"\
+  "PRIMARY KEY (`rd_from`),"\
+  "KEY `rd_ns_title` (`rd_namespace`,`rd_title`,`rd_from`)"\
+") ENGINE=InnoDB DEFAULT CHARSET=binary;"
     mycursor.execute(query)
     mycursor.execute(query2)
     print("table created")
@@ -46,7 +43,7 @@ def insert_data(filename):
    for line in open(filename,encoding='latin-1'):
         line_no=line_no+1
         if line.startswith('INSERT'):
-            str = line.replace("'","\\'")
+            str = line.replace("'","\'")
             mycursor.execute(str)
             print(line_no)
    mydb.commit()
@@ -54,6 +51,8 @@ def insert_data(filename):
 
 
 #create_table()
-insert_data('enwiki-latest-category.sql')
+insert_data('C:\\Users\\NIDHI\\Desktop\\enwiki-20190901-redirect.sql')
 #displaydata("select *from change_tag where ct_id=11000;")
 print('Operation performed')
+mydb.close()
+

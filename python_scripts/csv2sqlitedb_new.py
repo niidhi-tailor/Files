@@ -12,8 +12,7 @@ conn = sqlite3.connect(dbname)                                                 #
 print('connected to database') 
     
 #function to insert data in the table created
-def insert_data(csvfile,tablename):
-    delimiter=input("Enter deimiter\n")                                        #delimiter of csv file
+def insert_data(csvfile,tablename,delimiter):
     line_no = 0                                                                #counter to check number of lines of data inserted from the csv file
     for line in open(csvfile,encoding='latin-1'):                              #for loop to fetch each line from the file
         line_no = line_no + 1                                                  #incrementing line_no counter 
@@ -37,9 +36,7 @@ def insert_data(csvfile,tablename):
     conn.commit()        
 
 #function to create table
-def create_table(csvfile):
-    delimiter=input("Enter deimiter\n")                                        #delimiter of csv fiel
-    tablename=input("Enter table name\n")                                      #table name in which data is to be inserted
+def create_table(csvfile,tablename,delimiter):
     f=open(csvfile, encoding='latin 1')                                        #opening the csv file
     lines=f.readlines()                                                        #reading lines from file
     arr1=lines[0].split(delimiter)                                             #splitting first using delimiter
@@ -71,6 +68,6 @@ def display_data(query):
     for row in cursor:
         print(row)   
                                                                             
-create_table('C://Users//NIDHI//Downloads//sample.csv')
-insert_data('C://Users//NIDHI//Downloads//sample.csv',"sample")
+create_table('C://Users//NIDHI//Downloads//sample.csv',"sample_table","@$@")
+insert_data('C://Users//NIDHI//Downloads//sample.csv',"sample_table","@$@")
 print("Operation performed successfully")
